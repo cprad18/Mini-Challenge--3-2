@@ -1,0 +1,30 @@
+/Users/angelmanz/Mini Challenge #3/bin/Debug/net6.0/Mini Challenge #3
+/Users/angelmanz/Mini Challenge #3/bin/Debug/net6.0/Mini Challenge #3.deps.json
+/Users/angelmanz/Mini Challenge #3/bin/Debug/net6.0/Mini Challenge #3.runtimeconfig.json
+/Users/angelmanz/Mini Challenge #3/bin/Debug/net6.0/Mini Challenge #3.dll
+/Users/angelmanz/Mini Challenge #3/bin/Debug/net6.0/Mini Challenge #3.pdb
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.csproj.AssemblyReference.cache
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.AssemblyInfoInputs.cache
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.AssemblyInfo.cs
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.dll
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/refint/Mini Challenge #3.dll
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.pdb
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/Mini Challenge #3.genruntimeconfig.cache
+/Users/angelmanz/Mini Challenge #3/obj/Debug/net6.0/ref/Mini Challenge #3.dll
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/bin/Debug/net6.0/Mini Challenge #3
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/bin/Debug/net6.0/Mini Challenge #3.deps.json
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/bin/Debug/net6.0/Mini Challenge #3.runtimeconfig.json
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/bin/Debug/net6.0/Mini Challenge #3.dll
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/bin/Debug/net6.0/Mini Challenge #3.pdb
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.csproj.AssemblyReference.cache
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.AssemblyInfoInputs.cache
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.AssemblyInfo.cs
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.dll
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/refint/Mini Challenge #3.dll
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.pdb
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/Mini Challenge #3.genruntimeconfig.cache
+/Users/angelmanz/Desktop/Mini Challenge #3/Mini Challenge #3 2/obj/Debug/net6.0/ref/Mini Challenge #3.dll
