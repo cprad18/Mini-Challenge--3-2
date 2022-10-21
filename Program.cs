@@ -9,6 +9,11 @@
 
 Console.Clear();
 
+bool playagain = true;
+string noPlay = Console.ReadLine();
+
+while (playagain){
+
 Console.WriteLine("What is your name?");
 
 string myName = Console.ReadLine();
@@ -18,6 +23,14 @@ Console.WriteLine("What time did you wake up?");
 string myTime = Console.ReadLine();
 
 Console.WriteLine(myName + " woke up today at " + myTime);
+Console.WriteLine("If you would like to continue playing press any key or "no" if you want to stop");
+
+if(noPlay == "no"){
+    playagain again = false;
+}else{
+    playagain = true;
+}
+}
 
 
 
